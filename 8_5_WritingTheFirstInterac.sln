@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_5_WritingTheFirstInterac", "8_5_WritingTheFirstInterac\8_5_WritingTheFirstInterac.csproj", "{A82395A3-BA11-426E-BC15-15BD51272BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNinja.UnitTests", "TestNinja.UnitTests\TestNinja.UnitTests.csproj", "{7D4E7A7E-09DD-4EF7-A5DA-24D6A2A1C7F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82395A3-BA11-426E-BC15-15BD51272BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82395A3-BA11-426E-BC15-15BD51272BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82395A3-BA11-426E-BC15-15BD51272BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82395A3-BA11-426E-BC15-15BD51272BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4E7A7E-09DD-4EF7-A5DA-24D6A2A1C7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4E7A7E-09DD-4EF7-A5DA-24D6A2A1C7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4E7A7E-09DD-4EF7-A5DA-24D6A2A1C7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4E7A7E-09DD-4EF7-A5DA-24D6A2A1C7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE4E8F9-4DFC-477A-85A6-D4E869A4B150}
+	EndGlobalSection
+EndGlobal

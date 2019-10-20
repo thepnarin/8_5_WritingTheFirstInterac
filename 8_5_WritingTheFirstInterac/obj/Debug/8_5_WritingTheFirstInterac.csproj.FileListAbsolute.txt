@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\8_5_WritingTheFirstInterac\8_5_WritingTheFirstInterac\bin\Debug\8_5_WritingTheFirstInterac.exe.config
+D:\[OOP] - Object Oriented Programming\Test\8_5_WritingTheFirstInterac\8_5_WritingTheFirstInterac\bin\Debug\8_5_WritingTheFirstInterac.exe
+D:\[OOP] - Object Oriented Programming\Test\8_5_WritingTheFirstInterac\8_5_WritingTheFirstInterac\bin\Debug\8_5_WritingTheFirstInterac.pdb
+D:\[OOP] - Object Oriented Programming\Test\8_5_WritingTheFirstInterac\8_5_WritingTheFirstInterac\obj\Debug\8_5_WritingTheFirstInterac.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\8_5_WritingTheFirstInterac\8_5_WritingTheFirstInterac\obj\Debug\8_5_WritingTheFirstInterac.exe
+D:\[OOP] - Object Oriented Programming\Test\8_5_WritingTheFirstInterac\8_5_WritingTheFirstInterac\obj\Debug\8_5_WritingTheFirstInterac.pdb
